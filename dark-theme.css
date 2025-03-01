@@ -56,7 +56,7 @@
     transition: 0.4s;
     -webkit-box-shadow: 0 0px 15px #2020203d;
             box-shadow: 0 0px 15px #2020203d;
-    background: white url("../img/night.png");
+    background: white url("night.png");
     background-repeat: no-repeat;
     background-position: center;
   }

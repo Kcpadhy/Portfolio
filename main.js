@@ -24,7 +24,7 @@
 
     
     //Counter
-    $(".odometer").appear(function (e) {
+    $(".odometer").appear(function () {
         var odo = $(".odometer");
         odo.each(function () {
             var countNumber = $(this).attr("data-count");
