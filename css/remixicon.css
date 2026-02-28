@@ -1,12 +1,12 @@
 @font-face {
     font-family: remixicon;
-    src: url("remixicon.eot");
-    src: url("remixicon.eot")
+    src: url("../woff/remixicon.eot");
+    src: url("../woff/remixicon.eot")
         format("embedded-opentype"),
-      url("remixicon.woff2") format("woff2"),
-      url("remixicon.woff") format("woff"),
-      url("remixicon.ttf") format("truetype"),
-      url("remixicon.svg") format("svg");
+      url("../woff/remixicon.woff2") format("woff2"),
+      url("../woff/remixicon.woff") format("woff"),
+      url("../ttf/remixicon.ttf") format("truetype"),
+      url("../fonts/remixicon.svg") format("svg");
     font-display: swap;
   }
   [class*=" ri-"],
